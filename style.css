@@ -78,3 +78,9 @@ cursor: pointer;
 #result span{
    color: #ffff76;
 }
+.copy{
+   color: white;
+   background: #333;
+   text-align: center;
+   padding: 10px;
+}
